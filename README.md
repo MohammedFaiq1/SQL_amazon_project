@@ -1,1 +1,1 @@
-# SQL_amazon_project
+# SQL_Amazon_project
